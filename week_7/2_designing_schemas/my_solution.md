@@ -8,8 +8,8 @@
 <!-- display your image inline here -->
 ![student_roster](https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff?raw=true)
 <img src="https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff">
-![student_roster](https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqj)
-![student_roster](https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqjraw=true)
+![student_1](https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqj)
+![student_2](https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqjraw=true)
 
 <img src="https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqj">
 <img src="week_7/2_designing_schemas/schema_1.tiff">
