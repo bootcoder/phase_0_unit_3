@@ -6,7 +6,7 @@
 
 ## Release 0: Student Roster Schema
 <!-- display your image inline here -->
-![student_roster](https://github.com/bootcoder/phase_0_unit_3/blob/master/week_7/2_designing_schemas/schema_1.tiff?Raw=true)
+![student_roster](https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff)
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
