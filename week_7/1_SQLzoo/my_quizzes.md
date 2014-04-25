@@ -6,6 +6,7 @@
 
 ### My Quiz Results:
 <!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
+
 <a href="https://www.dropbox.com/s/3hru1wpvzxy4i4j/SQL_ZOO_screen_grab.jpg">Results</a>
 
 
@@ -13,6 +14,7 @@
 
 
 ### Reflection
+
 
 What parts of your strategy worked? What problems did you face?
 
@@ -105,3 +107,4 @@ Which parts of the challenge did you find tedious?
 
 SPENDING TWO DAYS LOOKING AT THE SAME TWO PROBLEMS, BEING 95% RIGHT AND STILL A MILLION MILES AWAY.
 This made me feel like I did before I started DBC Prep. Alone in the coding universe. Aimlessly throwing things against the wall to see if any stick. Super Frustrating!
+
