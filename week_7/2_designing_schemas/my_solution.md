@@ -9,6 +9,7 @@
 ![student_roster](https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff?raw=true)
 <img src="https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff">
 <img src="https://www.dropbox.com/sc/87n6zxdbrwu569k/1mYE1Qnhqj">
+<img src="week_7/2_designing_schemas/schema_1.tiff">
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
