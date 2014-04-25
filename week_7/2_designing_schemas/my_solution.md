@@ -6,7 +6,7 @@
 
 ## Release 0: Student Roster Schema
 <!-- display your image inline here -->
-![student_roster](https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff)
+![student_roster](https://www.dropbox.com/s/s2zigckzkih2ti1/schema_1.tiff?raw=true)
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
