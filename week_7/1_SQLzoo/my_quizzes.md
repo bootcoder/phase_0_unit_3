@@ -67,7 +67,7 @@ All returned either an line error or a corrupt database statement.
 ### Correct Solution:
 
 I finally broke down, cheated a bit, and searched SO for the specific answer to this problem.
-The only difference is the inclusion of LEFT JOIN vs: JOIN
+The only difference is the inclusion of LEFT JOIN vs: JOIN ...
 DA FuQ! How could I have possibly know that. Moreover, what difference does it make. IDK...But it does apparently.
 
 	SELECT mdate, team1,
@@ -82,7 +82,8 @@ I clicked all over the place to try to open the raw table data in the upper righ
 A very limited view is given and responds to hover by enlarging. But I could not expand to see the
 entire data set. This would have been immensely helpful in troubleshooting my way through several of the exercises.
 
-
+### Problem: 
+I set up the account according to the instructions. Completing the first tut and quiz before creating. Still I cannot get scores to post from the first SELECT exercise. Have tried many things. Puzzled. Decided to file under "cares no longer given" :+)
 
 
 
