@@ -6,7 +6,7 @@
 
 ## Release 0: Student Roster Schema
 <!-- display your image inline here -->
-<img src="imgs/schema_1.tiff">
+<img src="imgs/schema_1.jpg">
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
