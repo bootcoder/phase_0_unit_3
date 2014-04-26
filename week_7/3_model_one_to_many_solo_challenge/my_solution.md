@@ -27,5 +27,43 @@ This relationship is one-to-many. As there is one user that has many tweets.
 ## Release 4: SQL Statements
 <!-- Include your SQL Statements. How can you make markdown files show blocks of code? -->
 
+# All user Tweets
+
+```
+SELECT user_id, tweet 
+FROM twitter
+JOIN user ON tweets.tweet_id = user.id
+WHERE user_id = "JimBobJoeJunk"
+```
+
+# Tweets made after last Wednesday
+
+```
+SELECT user_id, tweet 
+FROM twitter
+JOIN user ON tweets.tweet_id = user.id
+WHERE user_id = "JimBobJoeJunk" AND created_at > 2014-04-23
+```
+
+# All tweets associated with Twitter Handle
+
+```
+SELECT user_id, tweet 
+FROM twitter
+JOIN user ON tweets.tweet_id = user.id
+WHERE user_id = "JimBobJoeJunk"
+```
+
+# The twitter handle associated with a tweet_id
+```
+SELECT user_id
+FROM twitter
+JOIN user ON tweets.tweet_id = user.id
+WHERE tweet_id = "123456"
+```
+
 ## Release 5: Reflection
-<!-- Be sure to add your reflection here!!! -->
+
+
+
+I feel like user_id and twitter handle should be the same thing...
