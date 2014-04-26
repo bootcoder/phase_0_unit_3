@@ -42,7 +42,7 @@ WHERE user_id = "JimBobJoeJunk"
 SELECT user_id, tweet 
 FROM twitter
 JOIN user ON tweets.tweet_id = user.id
-WHERE user_id = "JimBobJoeJunk" AND created_at > 2014-04-23
+WHERE user id = "JimBobJoeJunk" AND created_at > 2014-04-23
 ```
 
 # All tweets associated with Twitter Handle
@@ -66,4 +66,22 @@ WHERE tweet_id = "123456"
 
 
 
-I feel like user_id and twitter handle should be the same thing...
+
+## What parts of your strategy worked? What problems did you face?
+Has SQL, statements I shall write, schema's I shall design, questions I shall answer.... Seemed to work out :+).
+
+## What questions did you have while coding? What resources did you find to help you answer them?
+I feel like user_id and twitter handle should be the same thing.
+Hence SQL statements 1 & 3 are the same. Guess I'll find out when I do code review later...
+
+## What concepts are you having trouble with, or did you just figure something out? If so, what?
+Definitely could use more study in this department overall. Muscle Memory is my friend. 
+
+## Did you learn any new skills or tricks?
+Code block in GFM is ``` wrapper. That's nice.
+
+## How confident are you with each of the Learning Competencies?
+
+## Which parts of the challenge did you enjoy?
+
+## Which parts of the challenge did you find tedious?
