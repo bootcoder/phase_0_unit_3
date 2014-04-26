@@ -42,7 +42,7 @@ WHERE user_id = "JimBobJoeJunk"
 SELECT user_id, tweet 
 FROM twitter
 JOIN user ON tweets.tweet_id = user.id
-WHERE user id = "JimBobJoeJunk" AND created_at > 2014-04-23
+WHERE user_id = "JimBobJoeJunk" AND created_at > 2014-04-23
 ```
 
 # All tweets associated with Twitter Handle
