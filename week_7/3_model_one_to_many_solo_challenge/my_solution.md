@@ -34,6 +34,7 @@ SELECT user_id, tweet
 FROM twitter
 JOIN user ON tweets.tweet_id = user.id
 WHERE user_id = "JimBobJoeJunk"
+ORDER BY tweets.created_at
 ```
 
 # Tweets made after last Wednesday
@@ -43,6 +44,7 @@ SELECT user_id, tweet
 FROM twitter
 JOIN user ON tweets.tweet_id = user.id
 WHERE user_id = "JimBobJoeJunk" AND created_at > 2014-04-23
+ORDER BY tweets.created_at
 ```
 
 # All tweets associated with Twitter Handle
@@ -52,6 +54,7 @@ SELECT user_id, tweet
 FROM twitter
 JOIN user ON tweets.tweet_id = user.id
 WHERE user_id = "JimBobJoeJunk"
+ORDER BY tweets.created_at
 ```
 
 # The twitter handle associated with a tweet_id
@@ -81,7 +84,10 @@ Definitely could use more study in this department overall. Muscle Memory is my 
 Code block in GFM is ``` wrapper. That's nice.
 
 ## How confident are you with each of the Learning Competencies?
+With the Competencies I feel very comfortable. With actual implementation...Practice makes perfect.
 
 ## Which parts of the challenge did you enjoy?
+A SOLO challenge to bang out in under 45 minutes. Awesome Sauce!
 
 ## Which parts of the challenge did you find tedious?
+None 
