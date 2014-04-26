@@ -18,7 +18,8 @@ Location information
 ## Release 2: Explain the relationship
 The relationship between `users` and `tweets` is: 
 <!-- because... -->
-This relationship is one-to-many. As there is one user that has many tweets.
+one-to-many. As there is one user that has many tweets.
+Also, and I'm going out a limb here, but, the name of the challenge is 'Modeling a one-to-many database - SOLO CHALLENGE.'
 
 ## Release 3: Schema Design
 <!-- Include your image (inline) of your schema -->
