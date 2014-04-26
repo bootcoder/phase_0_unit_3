@@ -28,7 +28,7 @@ In lieu of books I used artists and paintings to achieve the same result.
 
 <img src="imgs/schema_5.jpg">
 
-Also I created a very simple one-to-one schema modeling a joined users and orders table.
+Also I created a very simple schema modeling a joined users and orders table.
 
 <img src="imgs/schema_5_1.jpg">
 
