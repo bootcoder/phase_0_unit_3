@@ -16,17 +16,13 @@ Add photo
 Location information
 
 ## Release 2: Explain the relationship
-The relationship between `users` and `tweets` is: 
-<!-- because... -->
-one-to-many. As there is one user that has many tweets.
+The relationship between `users` and `tweets` is: One-to-Many. As there is one user that has many tweets.
 Also, and I'm going out a limb here, but, the name of the challenge is 'Modeling a one-to-many database - SOLO CHALLENGE.'
 
 ## Release 3: Schema Design
-<!-- Include your image (inline) of your schema -->
 <img src="../IMGs/solo_schema.jpg">
 
 ## Release 4: SQL Statements
-<!-- Include your SQL Statements. How can you make markdown files show blocks of code? -->
 
 # All user Tweets
 
@@ -67,9 +63,6 @@ WHERE tweet_id = "123456"
 ```
 
 ## Release 5: Reflection
-
-
-
 
 ## What parts of your strategy worked? What problems did you face?
 Has SQL, statements I shall write, schema's I shall design, questions I shall answer.... Seemed to work out :+).
