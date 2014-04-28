@@ -7,7 +7,7 @@
 ### My Quiz Results:
 <!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
 
-<img src="https://www.dropbox.com/s/3hru1wpvzxy4i4j/SQL_ZOO_screen_grab.jpg">
+<img src="../IMGs/SQL_ZOO_screen_grab.jpg">
 
 
 
