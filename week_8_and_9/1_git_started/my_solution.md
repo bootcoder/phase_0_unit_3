@@ -3,13 +3,17 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+adds files in the current local repo to git staging
+to add all current files use:
+```
+git add .
+```
 
 #### branch
-<!-- Your defnition here -->
+command to switch to a different, or new branch from the current one.
 
 #### checkout
-<!-- Your defnition here -->
+
 
 #### clone
 <!-- Your defnition here -->
