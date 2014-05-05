@@ -11,12 +11,12 @@ I worked on this challenge [by myself, with:]
 
 */
 
-var students = ["Joseph", "Susan", "William", "Elizabeth"]
+var students = ["Joseph", "Susan", "William", "Elizabeth"];
 
 var scores = [ [80, 70, 70, 100],
                [85, 80, 90, 90],
                [75, 70, 80, 75],
-               [100, 90, 95, 85] ]
+               [100, 90, 95, 85] ];
 
 
 
@@ -27,7 +27,45 @@ var scores = [ [80, 70, 70, 100],
 // Write your code below.
 
 
+var average = function(array) {
+  var sum = 0;
+  for (var i = 0; i < array.length; i++) {
+    sum += array[i];
+  }
+  return sum / array.length;
+};
 
+var gradebook = {
+  "Joseph": {
+    'testScores': scores[0]
+  },
+  "Susan": {
+    'testScores': scores[1]
+  },
+  "William":  {
+    'testScores': scores[2]
+  },
+  "Elizabeth":  {
+    'testScores': scores[3]
+  },
+
+  addScore: function(name, score){
+    for (var i = 0; i < students.length; i++ ){
+      if (name === students[i]){
+        scores[i].push(score);
+      }
+    }
+  },
+
+  getAverage: function(name) {
+    for (i = 0; i < students.length; i++) {
+      if (students[i] === name) {
+        return average(scores[i]);
+      }
+    }
+  }
+
+};
 
 
 
@@ -36,7 +74,8 @@ var scores = [ [80, 70, 70, 100],
 
 
 
-
+// Sorry Wish I had time to refactor but it's Sunday @ 22:00 hours so at this point
+// Green is Green is Good enough for me
 
 
 
@@ -44,7 +83,35 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Reflect
 
-
+// What parts of your strategy worked? What problems did you face?
+// 
+// Everything came together here pretty nicely. Had some issues with JS syntax.
+// Had to go back to W3 and take a peek...
+// 
+// What questions did you have while coding? What resources did you find to help you answer them?
+// 
+// JS Syntax for Object deceleration.
+// 
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// 
+// Concepts are there. Practicum not so much. But all in good time I'm sure.
+// 
+// Did you learn any new skills or tricks?
+// 
+// ...
+// 
+// How confident are you with each of the Learning Competencies?
+// 
+// Pretty Confident. Could def. be better.
+// 
+// Which parts of the challenge did you enjoy?
+// 
+// Getting back into the swing with another lang. I get the feeling I
+// will be switching quite a bit in the days to come. 
+// 
+// Which parts of the challenge did you find tedious?
+// 
+// None. Sorry, I'm a happy camper
 
 
 

@@ -8,7 +8,9 @@
 // port ruby grociery list over to js
 // include add remove and view items and quantities
 // 
-// create variable grocieryList
+// *PSEUDO*
+// 
+// create variable grocieryList that contains the following:
 // 
 // VAR itemListArray = starting array
 // VAR itemNumbers = starting array
@@ -39,6 +41,8 @@
 // END METHOD
 // 
 // END Variable
+// 
+// */PSEUDO*
 
 
 
