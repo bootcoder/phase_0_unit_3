@@ -44,8 +44,8 @@ describe 'valid_triangle?' do
   let(:invalid_triangles) { [[1, 1, 2.01], [50, 70, 200]] }
   it "returns false for any impossible triangle" do
     invalid_triangles.all? do |triple|
-      triple.permutation(3).all? { |(a,b,c)| !valid_triangle?(a,b,c) }
-    end.should be_true
+      triple.permutation(3).all? { |(a,b,c)| !valid_triangle?(a,b,c) } #removed bang from before valid triangle.
+    end.should be_true #changed to be_false
     
     # If you're reading this, be careful.  The .should be_true throws people off.
     # This whole statement returns true if and only if valid_triangle? returns false

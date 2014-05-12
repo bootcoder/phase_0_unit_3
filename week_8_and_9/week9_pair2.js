@@ -1,5 +1,3 @@
-// ruby code to port
-
 // class GuessingGame
 
 //   def initialize(answer)
@@ -24,6 +22,11 @@
 //   end
 
 // end
+
+
+
+
+// # 1. DRIVER TESTS GO BELOW THIS LINE
 
 // game = GuessingGame.new(10)
 
@@ -135,32 +138,3 @@ console.log(is_solved() === true);
 
 
 // 5. Reflection 
-
-// What parts of your strategy worked? What problems did you face?
-// 
-// The strategy here was to pick the easiest possible ruby challenge and port it over to JS. Why go the easy route. Cause I'm
-// lazy and so ready to be done with these so I can enjoy the city for a day before DBC starts. I faced no problems. 
-// 
-// What questions did you have while coding? What resources did you find to help you answer them?
-// 
-// Would I get in trouble for skipping the reflections.... :+)
-// 
-// What concepts are you having trouble with, or did you just figure something out? If so, what?
-// 
-// javascript syntax is def not commit to memory just yet. still find myself referencing quite a bit. 
-// 
-// Did you learn any new skills or tricks?
-// 
-// no
-// 
-// How confident are you with each of the Learning Competencies?
-// 
-// mildly confident
-// 
-// Which parts of the challenge did you enjoy?
-// 
-// pairing is always better than not.
-// 
-// Which parts of the challenge did you find tedious?
-// 
-// driver code in js is not something I understand at all. console.log statements it it then. 
